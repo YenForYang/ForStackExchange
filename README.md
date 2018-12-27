@@ -1,2 +1,2 @@
 # ForStackExchange
-This repo will contain files.
+This repo will contain files. For Stack Exchange. Kinda.
